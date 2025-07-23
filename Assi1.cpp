@@ -1,3 +1,8 @@
+//Title: Implement a problem of no. of zeros.
+//statement : Given arrays of 1's and 0's ,which has all 1's followed by 0's . find no. of zeros and give the count of 0's in given array.
+//Input: 1 1 1 1 0 0 0
+//Output: 3
+
 #include<iostream>
 using namespace std;
 
